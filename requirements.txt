@@ -1,0 +1,19 @@
+# openai
+# python-dotenv
+
+openai==1.60.1
+python-dotenv==1.0.1
+
+
+
+# langchain_nvidia_ai_endpoints
+# langchain_community
+# faiss-cpu
+# streamlit
+# pypdf
+
+langchain-nvidia-ai-endpoints==0.3.7
+langchain-community==0.3.15
+faiss-cpu==1.9.0.post1
+streamlit==1.41.1
+pypdf==5.2.0
